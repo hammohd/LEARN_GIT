@@ -1,1 +1,2 @@
 example file 2
+Add second line and try to view it on git extension
